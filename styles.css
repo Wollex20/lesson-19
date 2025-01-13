@@ -1,0 +1,29 @@
+.bg-blue {
+  background-color: blue;
+}
+
+.bg-green {
+  background-color: green;
+}
+
+span {
+  color: red;
+}
+
+a {
+  display: flex;
+  justify-content: center;
+}
+
+img {
+  max-width: 600px;
+}
+
+.product-card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 16px;
+  width: 250px;
+  text-align: center;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
